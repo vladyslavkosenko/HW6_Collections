@@ -42,7 +42,6 @@ public class Main {
         workersBrigade2.add("Roberto");
         workersBrigade2.add("Paul");
 
-
         workersBrigade1.retainAll(workersBrigade2);
         System.out.println("Third task");
         System.out.println(workersBrigade1);
